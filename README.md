@@ -39,3 +39,12 @@ Trouvez le logiciel, son numéro de version ainsi que le système d'exploitati
 Format du flag attendu : NBCTF{<nom_logiciel>/$<systeme_dexploitation>}
 
 Exemple de flag attendu : NBCTF{Paint/14.0.4.2$Windows10_X86_64}
+
+## (ENCODE) Atelier
+
+-> fichier `message.txt` en pj
+
+Bienvenue dans cet atelier d'encodage !! Pas à pas, décodez les différents messages.
+
+Format du flag : NBCTF{message1-message2-message3} Séparez bien chaque message par un -
+
