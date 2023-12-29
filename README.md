@@ -16,6 +16,7 @@ Enfin à chaque fois, il y a un flag à indiquer (la réponse). Respectez bien l
 ## (OSINT) Le soldat
 
 1/ Quel est le prénom du soldat considéré comme étant le dernier soldat français mort sur le sol français avant l'armistice ?
+
 2/ Quel est son numéro matricule ?
 
 Format du flag : NBCTF{françois_752}
