@@ -27,3 +27,15 @@ Format du flag : NBCTF{françois_752}
 Vous connaissez l'extension .obus ? Personnellement non... Cependant, nous savons que le fichier contient des informations textuelles parmi ce champ de mines.
 
 Trouvez les informations cachées dans ce fichier !
+
+## (FORENSIC) Le méchant Hacker
+
+-> fichier `HACKED_BY_GliTcHMaSt3r69.odt` en pj
+
+Le système informatique de <?> a été piraté et tous les fichiers ont été chiffrés. Le pirate a laissé une demande de rançon sous la forme d'un fichier odt. Nous aimerions que vous fassiez parler ce fichier. Est-ce que le pirate aurait laissé par inadvertance des informations permettant de l'identifier ?
+
+Trouvez le logiciel, son numéro de version ainsi que le système d'exploitation utilisé pour créer ce fichier.
+
+Format du flag attendu : NBCTF{<nom_logiciel>/$<systeme_dexploitation>}
+
+Exemple de flag attendu : NBCTF{Paint/14.0.4.2$Windows10_X86_64}
