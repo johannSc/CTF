@@ -49,3 +49,9 @@ Bienvenue dans cet atelier d'encodage !! Pas à pas, décodez les différents
 
 Format du flag : NBCTF{message1-message2-message3} Séparez bien chaque message par un -
 
+## (RESEAU) Qui peut m'aider
+
+-> fichier `capture_wireshark.pcapng` en pj
+
+Trouvez le bon outil pour lire ce fichier.
+
