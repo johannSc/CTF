@@ -63,5 +63,16 @@ Avant de vous donner de vraies tâches, nous allons devoir vous tester. Voilà
 
 Corrigez les erreurs et récupérez le flag en exécutant le programme.
 
+## (OSINT) Les métiers du bâtiment
 
- 
+-> fichier `Fondation.jpeg` en pj
+
+1/ Qu'abrite ce bâtiment ?
+
+2/ Quel CMS a été utilisé pour construire son site ?
+
+3/ Trouvez la troisième question
+
+/!\ L'indice concerne la troisième question.
+
+Format du flag : NBCTF{cinema-chezmoi_pythagore_la-chaise}
