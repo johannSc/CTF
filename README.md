@@ -12,12 +12,18 @@ Au delà de trouver les solutions, je vous demande de documenter vos investigati
 
 Enfin à chaque fois, il y a un flag à indiquer (la réponse). Respectez bien le format demandé.
 
-## OSINT
 
-### Le soldat inconnu
+## (OSINT) Le soldat
 
 1/ Quel est le prénom du soldat considéré comme étant le dernier soldat français mort sur le sol français avant l'armistice ?
 2/ Quel est son numéro matricule ?
 
 Format du flag : NBCTF{françois_752}
 
+## (FORENSIC) Obus
+
+-> fichier `champ_de_mines.obus` en pj 
+
+Vous connaissez l'extension .obus ? Personnellement non... Cependant, nous savons que le fichier contient des informations textuelles parmi ce champ de mines.
+
+Trouvez les informations cachées dans ce fichier !
