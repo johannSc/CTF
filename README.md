@@ -51,7 +51,7 @@ Format du flag : NBCTF{message1-message2-message3} Séparez bien chaque message
 
 ## (RESEAU) Qui peut m'aider
 
--> fichier `capture_wireshark.pcapng` en pj
+-> fichier `capture.pcapng` en pj
 
 Trouvez le bon outil pour lire ce fichier.
 
