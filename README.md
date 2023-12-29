@@ -55,3 +55,13 @@ Format du flag : NBCTF{message1-message2-message3} Séparez bien chaque message
 
 Trouvez le bon outil pour lire ce fichier.
 
+## (PROGRAMMATION) Les gros doigts
+
+-> fichier `broken_code.py` en pj
+
+Avant de vous donner de vraies tâches, nous allons devoir vous tester. Voilà un bout de code dans lequel nous avons glissé quelques erreurs. Saurez-vous le rendre utilisable ?
+
+Corrigez les erreurs et récupérez le flag en exécutant le programme.
+
+
+ 
