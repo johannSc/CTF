@@ -19,7 +19,7 @@ Enfin à chaque fois, il y a un flag à indiquer (la réponse). Respectez bien l
 
 2/ Quel est son numéro matricule ?
 
-Format du flag : NBCTF{françois_752}
+Format du flag : CTF{françois_752}
 
 ## (FORENSIC) Obus
 
@@ -33,13 +33,13 @@ Trouvez les informations cachées dans ce fichier !
 
 -> fichier `HACKED_BY_GliTcHMaSt3r69.odt` en pj
 
-Le système informatique de <?> a été piraté et tous les fichiers ont été chiffrés. Le pirate a laissé une demande de rançon sous la forme d'un fichier odt. Nous aimerions que vous fassiez parler ce fichier. Est-ce que le pirate aurait laissé par inadvertance des informations permettant de l'identifier ?
+Le système informatique de JojoTeck a été piraté et tous les fichiers ont été chiffrés. Le pirate a laissé une demande de rançon sous la forme d'un fichier odt. Nous aimerions que vous fassiez parler ce fichier. Est-ce que le pirate aurait laissé par inadvertance des informations permettant de l'identifier ?
 
 Trouvez le logiciel, son numéro de version ainsi que le système d'exploitation utilisé pour créer ce fichier.
 
-Format du flag attendu : NBCTF{<nom_logiciel>/$<systeme_dexploitation>}
+Format du flag attendu : CTF{<nom_logiciel>/$<systeme_dexploitation>}
 
-Exemple de flag attendu : NBCTF{Paint/14.0.4.2$Windows10_X86_64}
+Exemple de flag attendu : CTF{Paint/14.0.4.2$Windows10_X86_64}
 
 ## (ENCODE) Atelier
 
@@ -47,7 +47,7 @@ Exemple de flag attendu : NBCTF{Paint/14.0.4.2$Windows10_X86_64}
 
 Bienvenue dans cet atelier d'encodage !! Pas à pas, décodez les différents messages.
 
-Format du flag : NBCTF{message1-message2-message3} Séparez bien chaque message par un -
+Format du flag : CTF{message1-message2-message3} Séparez bien chaque message par un -
 
 ## (RESEAU) Qui peut m'aider
 
@@ -75,4 +75,4 @@ Corrigez les erreurs et récupérez le flag en exécutant le programme.
 
 /!\ L'indice concerne la troisième question.
 
-Format du flag : NBCTF{cinema-chezmoi_pythagore_la-chaise}
+Format du flag : CTF{cinema-chezmoi_pythagore_la-chaise}
