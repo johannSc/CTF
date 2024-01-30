@@ -71,6 +71,6 @@ Corrigez les erreurs et récupérez le flag en exécutant le programme.
 
 2/ Quel CMS a été utilisé pour construire son site ?
 
-Dans ce challenge Google est plus que ton ami...
+/ Trouvez la 3e question
 
 Format du flag : CTF{cinema-chezmoi_pythagore}
