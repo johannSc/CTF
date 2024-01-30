@@ -71,8 +71,5 @@ Corrigez les erreurs et récupérez le flag en exécutant le programme.
 
 2/ Quel CMS a été utilisé pour construire son site ?
 
-3/ Trouvez la troisième question
-
-/!\ L'indice concerne la troisième question.
 
 Format du flag : CTF{cinema-chezmoi_pythagore_la-chaise}
