@@ -53,7 +53,7 @@ Format du flag : CTF{message1-message2-message3} Séparez bien chaque message p
 
 -> fichier `capture.pcapng` en pj
 
-Trouvez le bon outil pour lire ce fichier.
+Trouvez le bon outil pour lire ce fichier et trouvez le flag
 
 ## (PROGRAMMATION) Les gros doigts
 
